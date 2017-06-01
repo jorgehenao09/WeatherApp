@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="estamosTrabajando">Estamos trabajando</string>
+    <string name="informacion_procesandoPeticionEspere">Procesando su peticion, por favor espere...</string>
+    <string name="error_activandoGPS">No es posible activar el lector de la posición actual</string>
+    <string name="configuracionGPS">Configuración GPS</string>
+    <string name="advertencia_gpsNoHabilitado">El GPS no esta habilitado. Deseas ir a la configuración para activarlo?</string>
+    <string name="configurar">Configurar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="probabilidadLluvia">Probabilidad de lluvia: %</string>
+    <string name="velocidadViento">Velocidad viento: </string>
+    <string name="sensacionTermica">Sensación térmica: </string>
+    <string name="humedad">Humedad: </string>
+    <string name="visibilidad">Visibilidad: </string>
+    <string name="presion">Presión: </string>
+</resources>

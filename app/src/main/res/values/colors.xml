@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F2F3D</color>
+    <color name="colorPrimaryDark">#FF252530</color>
+    <color name="colorAccent">#2AA49A </color>
+
+    <color name="blanco">#FFFFFF</color>
+    <color name="lluvia">#6C83D9</color>
+    <color name="fresco">#0CB298</color>
+    <color name="caluroso">#E99E3E</color>
+
+    <color name="separador">#FFA6A6A7</color>
+</resources>

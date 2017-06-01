@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margin">15dp</dimen>
+    <dimen name="corner_radius_cardview">4dp</dimen>
+
+    <dimen name="input_label_vertical_spacing">8dp</dimen>
+    <dimen name="input_label_horizontal_spacing">4dp</dimen>
+    <dimen name="label_font_size">15sp</dimen>
+    <dimen name="label_title">20sp</dimen>
+    <dimen name="distance_components">5dp</dimen>
+</resources>
